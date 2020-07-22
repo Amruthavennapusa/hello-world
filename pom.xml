@@ -14,7 +14,7 @@
   <properties>
       <sonar.host.url>http://15.207.14.81:9000/</sonar.host.url>
      <sonar.login>admin</sonar.login>
-     <sonar.password>admin<sonar.password>
+     <sonar.password>admin</sonar.password>
      <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
     
